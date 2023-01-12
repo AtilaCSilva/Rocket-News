@@ -1,0 +1,10 @@
+button {
+  background-color: #8257e5;
+  height: 48px;
+  width: 48px;
+
+  border: none;
+
+  position: relative;
+  top: 8px;
+}

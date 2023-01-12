@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: borde-box;
+}
+
+body,
+#root {
+  font-family: 'Spartan', 'Work Sans', sans-serif;
+  height: 100vh;
+}
