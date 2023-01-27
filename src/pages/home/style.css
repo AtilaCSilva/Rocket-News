@@ -1,8 +1,6 @@
-.background {
-  background-image: url(../../images/read_news.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+.background img {
+  max-width: 800px;
+  height: 100%;
 }
 
 main {
@@ -23,6 +21,10 @@ main {
 }
 
 main .article {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+
   margin-top: 92px;
   margin-left: 36px;
 }

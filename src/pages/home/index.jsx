@@ -2,6 +2,7 @@ import { Form } from '../../components/Form/Form'
 import './style.css'
 import logo from '../../assets/logo.svg'
 import arrow from '../../assets/arrow-right.svg'
+import bg from '../../images/read_news.jpg'
 
 export function Home() {
   return (
@@ -30,7 +31,9 @@ export function Home() {
           <img src={arrow} alt="ícone de seta " className="arrow" />
         </div>
       </section>
-      <section className="background"></section>
+      <section className="background">
+        <img src={bg} alt="image principal" />
+      </section>
     </main>
   )
 }
