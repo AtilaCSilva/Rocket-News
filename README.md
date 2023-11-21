@@ -25,4 +25,4 @@ Nesse Desafio você constroi uma interface de novidades, onde vc tem que ter um 
 
 ### ✍️ O que Aprendi!!
 
-Aprendi mais sobre o React, como utiliza-lo de maneira mais arquiteturada e, originalmente o desafio e feito com HTML e CSS apenas, mas consegui me desafiar a construir em outras tecnologias e ir além do meu nível!
+Aprendi mais sobre o React, como utiliza-lo de maneira mais arquiteturada e, originalmente o desafio é feito com HTML e CSS apenas, mas consegui me desafiar a construir em outras tecnologias e ir além do meu nível!
